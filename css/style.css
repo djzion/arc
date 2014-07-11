@@ -811,7 +811,7 @@
 		background-size: 100%;
 }
 	
-.thirds{
+.thirds {
 	width: 33%;
 	margin-top: 100px;
 	margin-bottom: -70px;
@@ -828,6 +828,12 @@
 }
 .thirds p{
 	margin-top: 10px;
+}
+#one .thirds {
+    color: white;
+}
+#one .thirds p {
+    color: white;
 }
 
 .icon{
